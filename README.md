@@ -1,4 +1,4 @@
-#Rick and Morthy API
+# Rick and Morthy API
 
 This is a Next js Project where I implement a simple application to consume a API.
 
